@@ -14,3 +14,9 @@ It's important for everyone to stay on the same page. Ensuring that people know 
 Staying in sync with your team is important. Keeping lexicon/terminology straight can help!
 
 * [Lexicon](docs/lexicon.md)
+
+
+### Tips (stuff we've learned)
+Everyone has little tips here and there. Share yours here!
+
+* [Tips for Post Production](docs/post-production/tips.md)
