@@ -14,7 +14,21 @@ Here is terminology that is helpful to keep straight among teams.
 ### Strike
 > To clean up or clear the stage. This can be done in preparation for
 
+---
+## Location
+Most location directions are from the perspective of the sound person at the sound board.
 
+### Front of House (FOH)
+> Where the sound board is
+
+### Back of House (BOH)
+> Behind the stage
+
+### Stage Reft
+> The left portion of the stage from the perspective of FOH.
+
+### Stage Right
+> The right portion of the stage from the perspective of FOH.
 
 ---
 ## Cables
@@ -29,6 +43,9 @@ Here is terminology that is helpful to keep straight among teams.
 #### Mono
 > Tip, sleeve
 
+#### Rivering
+> To organize, sometimes taping down, cables on the stage.
+> Ensure that power and sound cables are not rivered together if at all possible so that you can avoid unwanted noise that can come from power.
 
 ---
 ## Other
