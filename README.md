@@ -2,6 +2,8 @@
 
 I've been doing sound since I was six and have needed to get my head around all the knowledge I've been taught and learned. Here's that attempt. Feel free to make updates, requests, etc.
 
+This is to be a jumping off point and not a law book. While this might be what I use for my teams this is just to spark conversations to create your own plans.
+
 **This is very much a Work In Progress right now!**
 
 
