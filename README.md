@@ -20,7 +20,5 @@ Staying in sync with your team is important. Keeping lexicon/terminology straigh
 ### Training
 * [Training Documentation](training/README.md)
 
-### Tips (stuff we've learned)
-Everyone has little tips here and there. Share yours here!
-
+### Tips
 * [Tips for Post Production](docs/post-production/tips.md)
