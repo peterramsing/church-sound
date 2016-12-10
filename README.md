@@ -17,6 +17,8 @@ Staying in sync with your team is important. Keeping lexicon/terminology straigh
 
 * [Lexicon](docs/lexicon.md)
 
+### Training
+* [Training Documentation](training/README.md)
 
 ### Tips (stuff we've learned)
 Everyone has little tips here and there. Share yours here!
