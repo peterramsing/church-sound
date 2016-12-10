@@ -26,3 +26,21 @@ Goal:
 ### Learning
 * Feeling comfortable running a line for a microphone or instrument.
 * Is comfortable with the basic mechanics of the sound board.
+
+
+## Week Three
+Goal:
+> Feels prepared to lead sound the following Sunday with supervision
+
+### Actions
+* Should be hands-on with the sound board under the direction of the Sound Lead.
+  * The trainee should be the "driver" and the Sound Lead the "navigator".
+* Should lead Sound check.
+  * With the Sound Lead guiding.
+* Answer all questions from musicians with the guidance of Sound Lead.
+  * With the close guidance of the Sound Lead.
+  * Questions that stump should be written down to discuss later
+
+
+### Learning
+* Should feel ready (and scared...that's natural and fine) to lead sound the following week.
