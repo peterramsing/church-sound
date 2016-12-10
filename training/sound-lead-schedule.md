@@ -12,6 +12,7 @@ Goal:
 * Feel comfortable being on stage and around equipment.
 * Know generally where things are located.
 
+---
 
 ## Week Two
 Goal:
@@ -27,6 +28,7 @@ Goal:
 * Feeling comfortable running a line for a microphone or instrument.
 * Is comfortable with the basic mechanics of the sound board.
 
+---
 
 ## Week Three
 Goal:
