@@ -6,6 +6,8 @@ This is to be a jumping off point and not a law book. While this might be what I
 
 **This is very much a Work In Progress right now!**
 
+### Mission
+* [Mission Statement](docs/mission.md)
 
 ### Roles
 It's important for everyone to stay on the same page. Ensuring that people know what they are responsible for is extremely helpful.
