@@ -15,7 +15,7 @@ Goal:
 
 ## Week Two
 Goal:
-> Starting to get hands on with cable management and general "plugging things in"
+> Starting to get hands-on with cable management and general "plugging things in" along with a general understanding of the sound board's features.
 
 ### Actions
 * Run several lines for microphones.
