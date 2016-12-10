@@ -1,5 +1,7 @@
 # Lexicon
 
+[Back Home](/README.md)
+
 Here is terminology that is helpful to keep straight among teams.
 
 ---

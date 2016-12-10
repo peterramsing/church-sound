@@ -1,5 +1,7 @@
 # The Mission Of the Sound Team
 
+[Back Home](/README.md)
+
 *To be finalized still...*
 
 To create an environment that empowers the worship team to engage more deeply in leading the church towards more personal worship, and clarity and distraction free teaching.
