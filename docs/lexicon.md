@@ -17,7 +17,7 @@ Here is terminology that is helpful to keep straight among teams.
 ### Call (or Call Time)
 > When musicians and their support crew should be ready to go on stage. This typically is fifteen minutes before "Go".
 
-### Go time
+### Go
 > Service Start Time
 
 ### Strike
