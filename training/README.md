@@ -2,6 +2,11 @@
 
 [Back Home](/README.md)
 
+# [Getting Started](getting-started.md)
+  * [Mission](/docs/mission.md)
+  * [Mixing Philosophy](/docs/subtractive-mixing.md)
+  * [Lexicon](/docs/lexicon.md)
+
 # Training for Sound Leads
 * [Sound Lead Schedule](sound-lead-schedule.md)
   * [Week 1](sound-lead-schedule.md#week-one)

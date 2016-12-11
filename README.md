@@ -9,6 +9,9 @@ This is to be a jumping off point and not a law book. While this might be what I
 ### Mission
 * [Mission Statement](docs/mission.md)
 
+### Mixing Philosophy
+* [Subtractive Mixing](docs/subtractive-mixing.md)
+
 ### Roles
 It's important for everyone to stay on the same page. Ensuring that people know what they are responsible for is extremely helpful.
 
