@@ -27,10 +27,10 @@ Here is terminology that is helpful to keep straight among teams.
 
 ---
 ## Location
-**Most location directions are from the perspective of the sound person at the sound board.**
+**Most location directions are from the perspective of the sound person at the mixing board.**
 
 ### Front of House (FOH)
-> Where the sound board is
+> Where the mixing board is
 
 ### Back of House (BOH)
 > Behind the stage
@@ -45,7 +45,7 @@ Here is terminology that is helpful to keep straight among teams.
 ## Cables
 
 ### XLR (or Mic Cable)
-> This is a [balanced]() cable that is typically used for microphones and connecting Direct Input boxes (DI) to the sound board. They are also used for connecting [passive]() speakers and monitors to the sound system.
+> This is a [balanced]() cable that is typically used for microphones and connecting Direct Input boxes (DI) to the mixing board. They are also used for connecting [passive]() speakers and monitors to the sound system.
 
 ![XLR Diagram](../images/xlr-diagram-graphic.png)
 (image CC by [Omegatron](https://commons.wikimedia.org/wiki/User:Omegatron))
