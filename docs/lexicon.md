@@ -68,6 +68,17 @@ Here is terminology that is helpful to keep straight among teams.
 
 **Ensure that power and sound cables are not rivered together if at all possible so that you can avoid unwanted noise that can come from power.**
 
+### Snake
+> A long cable that is a combination of many cables that runs from the stage to the mixing board. It typically has the same amount of channels as the mixing board but is just a way to keep cables organized and reduce the need for many many single cables.
+
+> Typically snakes will also have returns (outputs) on it as well. These are usually used for [monitors]()/[auxiliary]() sends.
+
+#### Digital Snake
+> Digital Snakes perform the same task as the snake but is usually much smaller (but sane length) as it doesn't need a cable for each channel but instead is typically one or two cables that carry the same information as its analog counterpart.
+
+#### Sub-Snake
+> These are used for on-stage organization. A sub-snake might be used for the drums to help reduce the need for numerous cables to be run but instead just one cable.
+
 ---
 ## Other
 
