@@ -71,6 +71,14 @@ Here is terminology that is helpful to keep straight among teams.
 ---
 ## Other
 
+### Dead Stage
+> The stage is muted so it is all clear to un-plug anything. This is typically used at the close of a service to indicate that [Strike](#strike) can start.
+
+### Live Stage
+> This means that everything on the stage is un-muted and so musicians and technicians alike should take care knowing that mics and instruments are audible from the PA. Between "dead stage" and "live stage", live should be the assumed state unless otherwise told.
+
+*Tip: Use mute switches, like those in tuning pedals, to allow for instruments to be un-plugged and plugged in on a live stage without the sound coming from the PA.*
+
 ### Rider
 > The list of requirements from the band/musicians for the venue or sound team to provide.
 
