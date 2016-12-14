@@ -7,6 +7,10 @@
   * [Mixing Philosophy](/docs/subtractive-mixing.md)
   * [Lexicon](/docs/lexicon.md)
 
+# Training for Sound Tech
+* [Sound Tech Schedule](sound-tech-schedule.md)
+  * [Week 1](sound-tech-schedule.md#week-one)
+
 # Training for Sound Leads
 * [Sound Lead Schedule](sound-lead-schedule.md)
   * [Week 1](sound-lead-schedule.md#week-one)
