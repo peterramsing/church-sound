@@ -15,15 +15,12 @@ This is to be a jumping off point and not a law book. While this might be what I
 ### Roles
 It's important for everyone to stay on the same page. Ensuring that people know what they are responsible for is extremely helpful.
 
+* [Schedule Expectations](docs/roles.md#schedule-expectations)
 * [Sunday Morning Roles](docs/roles.md#sunday-morning-rasi)
 
-### Lexicon (or terminology)
-Staying in sync with your team is important. Keeping lexicon/terminology straight can help!
+### [Lexicon](docs/lexicon.md)
 
-* [Lexicon](docs/lexicon.md)
-
-### Training
-* [Training Documentation](training/README.md)
+### [Training Documentation](training/README.md)
 
 ### Tips
 * [Tips for Post Production](docs/post-production/tips.md)
