@@ -4,6 +4,17 @@
 
 Keeping roles straight can be hard. This can hopefully help!
 
+## Schedule Expectations
+### Sound Lead
+* Rehearsal with musicians during the week.
+* Get to venue for [Load In](/docs/lexicon.md#load-in).
+* Present at sound board from [Sound Check](/docs/lexicon.md#sound-check) through the close of service.
+* Be at the venue till [Strike](/docs/lexicon.md#strike) is complete.
+
+### Sound Tech
+* Get to venue for [Load In](/docs/lexicon.md#load-in).
+* Be at the venue till [Strike](/docs/lexicon.md#strike) is complete.
+
 
 ## Sunday Morning RASI
 *(responsible, approve, support, inform)*
