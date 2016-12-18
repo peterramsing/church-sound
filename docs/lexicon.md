@@ -35,7 +35,7 @@ Here is terminology that is helpful to keep straight among teams.
 ### Back of House (BOH)
 > Behind the stage
 
-### Stage Reft
+### Stage Left
 > The left portion of the stage from the perspective of FOH.
 
 ### Stage Right
