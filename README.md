@@ -23,4 +23,6 @@ It's important for everyone to stay on the same page. Ensuring that people know 
 ### [Training Documentation](training/README.md)
 
 ### Tips
-* [Tips for Post Production](docs/post-production/tips.md)
+* [Tips for Post Production](docs/tips.md#post-production)
+* [Tips for Monitors](docs/tips.md#monitors)
+* [Tips for Cabling](docs/tips.md#cables)
